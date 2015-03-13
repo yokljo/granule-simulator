@@ -1,0 +1,1 @@
+GrANUle will be a Java simulator of the ARM Thumb-2 instruction set, plus a nice GUI to go with it.
